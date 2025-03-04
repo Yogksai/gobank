@@ -1,2 +1,0 @@
-# gobank
-# gobank
